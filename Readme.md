@@ -1,5 +1,6 @@
-# Flipkart-Sales-Analytics
+# Flipkart-Sales-Analysis
 # Flipkart Sales Analysis Dashboard
+![Dashboard Preview](PowerBIDashboard.png)
 
 ## Project Overview
 This project is a **Power BI dashboard** that analyzes sample Flipkart sales data. It provides key business insights, including sales trends, customer behavior, product performance, and more. The dashboard is designed to help in **decision-making, inventory management, and marketing strategy optimization**.
@@ -58,7 +59,7 @@ The dataset contains **sales records from Flipkart**, including the following co
 - Delivery Time (Days), Stock Status, Return Status
 
 ---
-![Dashboard Preview](PowerBIDashboard.png)
+
 
 
 ## 🛠️ How to Use the Dashboard
