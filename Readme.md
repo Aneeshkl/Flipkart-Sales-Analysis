@@ -58,7 +58,7 @@ The dataset contains **sales records from Flipkart**, including the following co
 - Delivery Time (Days), Stock Status, Return Status
 
 ---
-![Dashboard Preview](PowerBIDashboard).png)
+![Dashboard Preview](PowerBIDashboard.png)
 
 
 ## 🛠️ How to Use the Dashboard
