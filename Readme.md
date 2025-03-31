@@ -3,7 +3,7 @@
 ![Dashboard Preview](PowerBIDashboard.png)
 
 ## Project Overview
-This project is a **Power BI dashboard** that analyzes sample Flipkart sales data. It provides key business insights, including sales trends, customer behavior, product performance, and more. The dashboard is designed to help in **decision-making, inventory management, and marketing strategy optimization**.
+This project is done by using **Power BI dashboard** that analyzes sample Flipkart sales data. It provides key business insights, including sales trends, customer behavior, product performance, and more. The dashboard is designed to help in **decision-making, inventory management, and marketing strategy optimization**.
 
 ---
 
